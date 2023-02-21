@@ -1,6 +1,6 @@
 ## 👋 Hi and welcome!
 
-![my_photo](images/portrait_02_23_crop.jpg){:width="35%" style="float: right; margin-left: 15px; border-radius: 5%"}
+![my_photo](images/portrait_02_23_crop_2.jpg){:width="35%" style="float: right; margin-left: 15px; border-radius: 5%"}
 
 I’m Evgenii Kortukov and this is my personal webpage. 
 
