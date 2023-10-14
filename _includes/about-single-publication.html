@@ -33,7 +33,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.authors %} {{ post.authors | markdownify }} {% endif %}
+    <div class="no_margin_div">
+        {% if post.authors %} {{ post.authors | markdownify }} {% endif %}
+    </div>
     {% if post.paperurl %}
         <a href=" {{ post.paperurl }} ">Paper</a>&nbsp;&nbsp;
     {% endif %}

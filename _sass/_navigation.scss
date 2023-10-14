@@ -72,6 +72,12 @@ Remove all spaces between paragraphs
   margin: 0px;
 }
 
+.no_margin_div {
+  p {
+    margin: 0px !important;
+  }
+}
+
 /*
 Shows the type of the item, e.g. preprint, paper, report.
 */

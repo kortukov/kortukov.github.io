@@ -1,8 +1,0 @@
-misc{ghoorchian2023online,
-      title={Online Learning with Costly Features in Non-stationary Environments}, 
-      author={Saeed Ghoorchian and Evgenii Kortukov and Setareh Maghsudi},
-      year={2023},
-      eprint={2307.09388},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
