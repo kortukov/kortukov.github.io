@@ -24,14 +24,14 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         {% if author.location_uri %}
-          <li><a href="{{ author.location_uri }}"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> author.location</a></li>
+          <li><a href="{{ author.location_uri }}"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
         {% else %}
           <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
         {% endif %}
       {% endif %}
       {% if author.employer %}
         {% if author.employer_uri %}
-          <li><a href="{{ author.employer_uri }}"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> author.employer</a></li>
+          <li><a href="{{ author.employer_uri }}"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</a></li>
         {% else %}
           <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
         {% endif %}
