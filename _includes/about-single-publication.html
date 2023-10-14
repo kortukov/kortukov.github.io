@@ -35,5 +35,14 @@
     </h3>
     {% if post.authors %} {{ post.authors | markdownify }} {% endif %}
     </li>
+    <p>
+    {% if post.code %}
+      Code <a href=" {{ post.paperurl }} ">here</a>&nbsp;&nbsp;
+    {% endif %}
+    {% if post.bibtex %}
+      Bibtex <a href=" {{ post.bibtex }} ">here</a>&nbsp;&nbsp;
+    {% endif %}
+    </p>
+
  </article>
 </div>

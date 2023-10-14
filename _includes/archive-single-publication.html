@@ -37,11 +37,13 @@
     
     <p>
       {{ post.authors | markdownify }}
+      <i>
       {% if post.venue %}
-        <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% else %}
         {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% endif %}
+      </i>
     </p>
         
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -50,11 +52,14 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.paperurl and post.paperurldescription %}
-      <p><a href="{{ post.paperurl }}">{{ post.paperurldescription }}</a></p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} ">here</a></p>
+    <p>
+    {% if post.code %}
+      Code <a href=" {{ post.paperurl }} ">here</a>&nbsp;&nbsp;
     {% endif %}
+    {% if post.bibtex %}
+      Bibtex <a href=" {{ post.bibtex }} ">here</a>&nbsp;&nbsp;
+    {% endif %}
+    </p>
 
   </article>
 </div>
