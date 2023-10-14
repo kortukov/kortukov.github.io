@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Evgenii Kortukov"
-  avatar           : "portrait.jpeg"
+  avatar           : "portrait.jpg"
   bio              : "Trustworthy ML, Explainability, AI Safety"
   location         : "University of Tübingen"
   location_uri     : "https://uni-tuebingen.de/en/"
