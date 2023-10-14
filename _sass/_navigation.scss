@@ -51,6 +51,47 @@
   }
 }
 
+/*
+Set other link color for the title links
+*/
+.archive__item-title {
+  a {
+    color: $headline-link-color;
+    text-decoration: none !important;
+
+    &:hover {
+      color: $headline-link-color-hover;
+    }
+  }
+}
+
+/*
+Remove all spaces between paragraphs
+*/
+.archive__item > p {
+  margin: 0px;
+}
+
+/*
+Shows the type of the item, e.g. preprint, paper, report.
+*/
+.archive__item__type {
+  float: left;
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  color: $light-gray;
+}
+
+span.cv-year {
+  color: $light-gray;
+}
+
+span.cv-highlight {
+  color: $info-color;
+  font-weight: 700;
+}
 
 /*
    Post pagination navigation links
