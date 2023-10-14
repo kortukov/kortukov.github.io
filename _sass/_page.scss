@@ -399,3 +399,16 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.bibtex_code {
+  background-color: lightgray;
+  border-radius: .25rem!important;
+}
+
+.bibtex_code > small {
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  font-size: 80%;
+  font-weight: 400;
+}
