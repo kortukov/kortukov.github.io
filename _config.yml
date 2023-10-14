@@ -83,11 +83,13 @@ author:
   name             : "Evgenii Kortukov"
   avatar           : "portrait.jpeg"
   bio              : "Trustworthy ML, Explainability, AI Safety"
-  location         : "(University of Tübingen)[https://uni-tuebingen.de/en/]"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "University of Tübingen"
+  location_uri     : "https://uni-tuebingen.de/en/"
+  employer         : "Scalable Trustworthy AI group"
+  employer_uri     : "https://scalabletrustworthyai.github.io/"
+  pubmed           :   
+  googlescholar    : "https://scholar.google.com/citations?user=7qTZ4NEAAAAJ&hl=en&oi=ao"
+  email            : "ee{last_name}gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kortukov"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "eekortukov"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "EKortukov"
   vine             :
   weibo            :
   xing             :
