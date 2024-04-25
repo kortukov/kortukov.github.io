@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Evgenii Kortukov"
   avatar           : "portrait.jpg"
-  bio              : "Trustworthy ML, Explainability, AI Safety"
+  bio              : "NLP, Explainability, Trustworthy ML, AI Safety"
   location         : "University of Tübingen"
   location_uri     : "https://uni-tuebingen.de/en/"
-  employer         : "Scalable Trustworthy AI group"
-  employer_uri     : "https://scalabletrustworthyai.github.io/"
+  employer         : "Looking for PhD opportunities"
+  employer_uri     : 
   pubmed           :   
   googlescholar    : "https://scholar.google.com/citations?user=7qTZ4NEAAAAJ&hl=en&oi=ao"
   email            : "ee{last_name}gmail.com"
