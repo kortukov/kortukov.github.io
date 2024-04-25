@@ -1,6 +1,6 @@
 ---
 title: "Exploring Practitioner Perspectives On Training Data Attribution Explanations"
-type: Workshop Paper
+type: Workshop
 collection: publications
 permalink: /publication/2023-10-27-perspectives
 excerpt: 'Interviewing ML practitioners to explore the human factor of training data attribution explanations.'
