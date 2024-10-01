@@ -83,10 +83,10 @@ author:
   name             : "Evgenii Kortukov"
   avatar           : "portrait.jpg"
   bio              : "NLP, Explainability, Trustworthy ML, AI Safety"
-  location         : "University of Tübingen"
-  location_uri     : "https://uni-tuebingen.de/en/"
-  employer         : "Looking for PhD opportunities"
-  employer_uri     : 
+  location         : "Berlin, Germany"
+  location_uri     : 
+  employer         : "Fraunhofer HHI"
+  employer_uri     : "https://www.hhi.fraunhofer.de/en/departments/ai/research-groups/explainable-artificial-intelligence.html" 
   pubmed           :   
   googlescholar    : "https://scholar.google.com/citations?user=7qTZ4NEAAAAJ&hl=en&oi=ao"
   email            : "ee{last_name}gmail.com"
