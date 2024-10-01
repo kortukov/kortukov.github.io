@@ -7,7 +7,7 @@ excerpt: 'Interviewing ML practitioners to explore the human factor of training 
 date: 2023-10-27
 paperurl: 'https://openreview.net/forum?id=x9H6lNez5b'
 authors: 'Elisa Nguyen, **Evgenii Kortukov**, Jean Song, Seong Joon Oh'
-venue: 'NeurIPS 2023 Workshop XAIA'
+venue: 'NeurIPS Workshop XAIA'
 citation: 'Elisa Nguyen, Evgenii Kortukov, Jean Song, and Seong Joon Oh. Exploring practitioner perspectives on
 training data attribution explanations. In XAI in Action: Past, Present, and Future Applications, 2023.'
 bibtex: "@inproceedings{Nguyen23:EPP, <br> 

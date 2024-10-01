@@ -8,7 +8,7 @@ date: 2024-04-25
 paperurl: 'https://openreview.net/forum?id=xm8zYRfrqE'
 codeurl: https://github.com/kortukov/realistic_knowledge_conflicts/
 authors: '**Evgenii Kortukov**, Alexander Rubinstein, Elisa Nguyen, Seong Joon Oh'
-venue: 'COLM 2024'
+venue: 'COLM'
 bibtex: "@inproceedings{kortukov2024studying, <br>
       title={Studying Large Language Model Behaviors Under Context-Memory Conflicts With Real Documents}, <br>
       author={Evgenii Kortukov and Alexander Rubinstein and Elisa Nguyen and Seong Joon Oh}, <br>
