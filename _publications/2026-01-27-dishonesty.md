@@ -12,7 +12,7 @@ venue: "ICLR"
 bibtex: "@inproceedings{ <br>
     panfilov2026strategic,  <br>
     title={Strategic Dishonesty Can Undermine {AI} Safety Evaluations of Frontier {LLM}s},  <br>
-    author={Alexander Panfilov and Evgenii Kortukov and Kristina Nikoli{\'c} and Matthias Bethge and Sebastian Lapuschkin and Wojciech Samek and Ameya Prabhu and Maksym Andriushchenko and Jonas Geiping},  <br>
+    author={Alexander Panfilov and Evgenii Kortukov and Kristina Nikoli{\\'c} and Matthias Bethge and Sebastian Lapuschkin and Wojciech Samek and Ameya Prabhu and Maksym Andriushchenko and Jonas Geiping},  <br>
     booktitle={The Fourteenth International Conference on Learning Representations},  <br>
     year={2026},  <br>
     url={https://openreview.net/forum?id=IbDr8xgUMW}  <br>
