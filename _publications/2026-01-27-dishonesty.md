@@ -7,7 +7,7 @@ excerpt: "LLMs dishonesty breaks jailbreak evaluations but activation probes can
 date: 2026-01-27
 paperurl: "https://openreview.net/forum?id=IbDr8xgUMW"
 codeurl: "https://github.com/kotekjedi/strategic_dishonesty_mcq"
-authors: Alexander Panfilov*, **Evgenii Kortukov***, Kristina Nikolić, Matthias Bethge, Sebastian Lapuschkin, Wojciech Samek, Ameya Prabhu, Maksym Andriushchenko, Jonas Geiping
+authors: "Alexander Panfilov*, **Evgenii Kortukov***, Kristina Nikolić, Matthias Bethge, Sebastian Lapuschkin, Wojciech Samek, Ameya Prabhu, Maksym Andriushchenko, Jonas Geiping"
 venue: "ICLR"
 bibtex: "@inproceedings{ <br>
     panfilov2026strategic,  <br>
