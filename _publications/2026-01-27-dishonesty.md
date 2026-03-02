@@ -2,7 +2,7 @@
 title: "Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs"
 type: Conference
 collection: publications
-permalink: /publication/2026-01-26-aside
+permalink: /publication/2026-01-27-dishonesty
 excerpt: "LLMs dishonesty breaks jailbreak evaluations but activation probes can catch it."
 date: 2026-01-27
 paperurl: "https://openreview.net/forum?id=IbDr8xgUMW"
