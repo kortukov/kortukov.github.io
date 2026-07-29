@@ -20,6 +20,7 @@ bibtex: "@inproceedings{kortukov2026predicting, <br>
 Interpretability tools that predict and control model behaviors typically rely on contrastive input pairs. This binary data hides the probabilistic nature of language model decision making. During reasoning, LLMs can keep track of multiple behavioral options before committing. We find that these future behavior distributions are reflected in their representations. We can steer the behavioral outcome by choosing the reasoning sentences that maximize the estimated probability of a future behavior. We propose a simple algorithm — Future Probe Controlled Generation (FPCG) — that samples multiple candidate sentences at each reasoning step and selects the one that maximizes the activation of a probe predicting future behavior likelihoods, enabling steering at the text level without modifying activations and with less quality degradation than standard activation steering.
 
 [<i class="fa fa-fw fa-book" aria-hidden="true"></i>Full paper](https://arxiv.org/abs/2606.11172) &nbsp;&nbsp;
+[<i class="fa fa-fw fa-home" aria-hidden="true"></i>Project page](https://future-probes.github.io/) &nbsp;&nbsp;
 [<i class="fa fa-fw fa-globe" aria-hidden="true"></i>Code](https://github.com/kortukov/future_probes) &nbsp;&nbsp;
 [<i class="fa fa-fw fa-external-link" aria-hidden="true"></i>OpenReview](https://openreview.net/forum?id=48NnVTsirb) &nbsp;&nbsp;
 [<i class="fa fa-fw fa-desktop" aria-hidden="true"></i>Demo](https://behavior-distributions-demo.github.io/)
